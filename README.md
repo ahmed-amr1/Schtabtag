@@ -1,8 +1,14 @@
-# Schtabtag
+<h1 align=center>
+  Schtabtag
+<h1/>
 
-![schtabtag](https://cdn.discordapp.com/attachments/893417057541050368/894347205115269150/PicsArt_10-03-11.56.49.jpg)
+<p align=center>
+  <img src="https://cdn.discordapp.com/attachments/893417057541050368/894347205115269150/PicsArt_10-03-11.56.49.jpg" alt="schtabtag">
+<p/>
 
-## A simple Discord bot made in **[Python](https://www.python.org)**
+<h2 align=center>
+  A simple Discord bot made in <a href="https://www.python.org">Python<a/>
+<h2/>
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Coded via VScode](https://img.shields.io/badge/coded%20via-Visual%20Studio%20Code-007ACC?logo=visualstudiocode)](https://code.visualstudio.com/)
