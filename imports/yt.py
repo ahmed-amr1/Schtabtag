@@ -3,10 +3,16 @@ import urllib.parse
 import re
 import requests
 from googleapiclient.discovery import build
+import orjson
+
+with open("config.json", "r") as config:
+  data = orjson.loads(config.read())
+  
+  YOUTUBE_API_KEY = data["youtube_api_key"]
 
 api_key = "AIzaSyCayV6rSPPH8WqSERjUwyXYhQVcQW_YPys"
 
-youtubeClient = build("youtube",'v3',developerKey=api_key)
+youtubeClient = build("youtube",'v3',developerKey=YOUTUBE_API_KEY)
 
 def getData(url):
   constant = "https://www.youtube.com/watch?v="
