@@ -76,5 +76,6 @@ Schtabtag has plenty of commands designed to satisfy everyone
 * Join our official support server by visiting **[this link](https://discord.gg/HrxJxcBSDe)**.
 
 * Invite Schtabtag to your **[Discord](https://www.discord.com)** server by visiting **[this link](https://bit.ly/schtabtag)** or by scanning the following **[QR-code](./assets/frame.png)**:
-
-![qr-code](./assets/frame.png)
+<p align=center>
+  <img src="./assets/frame.png" alt="qr-code" width="250" height="250">
+<p/>
